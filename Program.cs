@@ -3,7 +3,7 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        #region Section1
+        #region Bases
         // Variables();
         // DataTypes();
         // ShowNumericTypes();
@@ -22,7 +22,7 @@ partial class Program
         // Generics();
         #endregion
 
-        #region Section2
+        #region Logic
         // AnonymousFunction();
         // Conditionals();
         // Conversions();
@@ -33,8 +33,26 @@ partial class Program
         // Loops();
         // Tuples();
         // FizzBuzz();
-        PrintMultiplicationTable(10, 10);
-        PrintFactorialTable(4);
+        // PrintMultiplicationTable(10, 10);
+        // PrintFactorialTable(4);
+        #endregion
+
+        #region Classes
+        // AbstracClassExamples();
+        // Properties();
+        // Methods();
+        //? Force garbage collection
+        // GC.Collect();
+        //?  Execute Finalizers
+        // GC.WaitForPendingFinalizers();
+        // Inheritance();
+        // TestingClass();
+        // Visibility();
+        // ProductSalesDemo();
+        // BusFleet();
+        ShowEmployeesInformation();
+
+
         #endregion
     }
 

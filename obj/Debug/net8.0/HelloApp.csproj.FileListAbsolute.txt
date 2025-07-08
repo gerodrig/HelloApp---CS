@@ -13,3 +13,10 @@
 /Users/gerry/Development/CSharp/HelloApp/obj/Debug/net8.0/HelloApp.genruntimeconfig.cache
 /Users/gerry/Development/CSharp/HelloApp/obj/Debug/net8.0/ref/HelloApp.dll
 /Users/gerry/Development/CSharp/HelloApp/obj/Debug/net8.0/HelloApp.sourcelink.json
+/Users/gerry/Development/CSharp/HelloApp/bin/Debug/net8.0/BetterConsoles.Colors.dll
+/Users/gerry/Development/CSharp/HelloApp/bin/Debug/net8.0/BetterConsoles.Core.dll
+/Users/gerry/Development/CSharp/HelloApp/bin/Debug/net8.0/BetterConsole.Tables.dll
+/Users/gerry/Development/CSharp/HelloApp/bin/Debug/net8.0/Clawfoot.Core.dll
+/Users/gerry/Development/CSharp/HelloApp/bin/Debug/net8.0/Clawfoot.Extensions.dll
+/Users/gerry/Development/CSharp/HelloApp/obj/Debug/net8.0/HelloApp.csproj.AssemblyReference.cache
+/Users/gerry/Development/CSharp/HelloApp/obj/Debug/net8.0/HelloApp.csproj.Up2Date

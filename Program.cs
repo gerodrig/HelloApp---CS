@@ -1,4 +1,6 @@
 ﻿
+using System.Collections.ObjectModel;
+
 partial class Program
 {
     static void Main(string[] args)
@@ -50,8 +52,26 @@ partial class Program
         // Visibility();
         // ProductSalesDemo();
         // BusFleet();
-        ShowEmployeesInformation();
+        // ShowEmployeesInformation();
+        #endregion
 
+        #region Exceptions
+        // HandleException();
+        // Collections();
+        // Linq();
+        // AdvancedLinq.Program.AdvancedLINQ();
+        // SalesAnalysis();
+        #endregion
+        #region FileHandling
+        // FileExample(); 
+        // DirectoryExample();
+        // PathExample();
+        // WrtieFileExample();
+        // ManageJsonFile.Program.ManageJsonFile();
+        #endregion
+
+        #region TaskMaster
+        TaskMaster.Program.TaskMaster();
 
         #endregion
     }
